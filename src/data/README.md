@@ -15,6 +15,6 @@ The developers of this tool claim no ownership, copyright, or trademark rights o
 Any user-generated assets created through this tool are intended strictly for personal, non-commercial use in home tabletop games and must not be sold, distributed for profit, or used in any manner that infringes upon the official rights-holders.
 
 
-## Code of the App itself falls under the GPL.
+## Code of the App itself falls under the MIT License.
 
 See the LICENSE file for further information.
