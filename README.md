@@ -44,4 +44,4 @@ Any user-generated assets created through this tool are intended strictly for pe
 
 [cam-smith](https://github.com/cam-smith), fixes for formation bonuses and aero damages
 
-[NGCFells] (https://github.com/ngcfells), Lore Review, updates to Data for completeness, additions to functionality for imports and exports. Focusing on standard Tabletop.
+[NGCFells](https://github.com/ngcfells), Lore Review, updates to Data for completeness, additions to functionality for imports and exports. Focusing on standard Tabletop.
