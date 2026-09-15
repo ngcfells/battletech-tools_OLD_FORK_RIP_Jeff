@@ -33,7 +33,7 @@ export const mechEngineTypes: IEngineType[] = [
 	},
 	{
 		name: "Clan XL Fusion",
-		tag: "clan-xl",
+		tag: "clan_xl",
 		criticals: {
 			clan: { ct: 6, lt: 2, rt: 2 }
 		},
@@ -81,7 +81,7 @@ export const mechEngineTypes: IEngineType[] = [
 	},
 	{
 		name: "Clan XXL Fusion",
-		tag: "clan-xxl",
+		tag: "clan_xxl",
 		criticals: {
 			clan: { ct: 6, lt: 4, rt: 4 }
 		},
@@ -108,7 +108,7 @@ export const mechEngineTypes: IEngineType[] = [
 	{
 		name: "Fuel Cell Engine",
 		alternateName: "FCE",
-		tag: "fuel-cell",
+		tag: "cell",
 		criticals: {
 			is: { ct: 1 },
 			clan: { ct: 1 }
@@ -134,7 +134,7 @@ export const mechEngineTypes: IEngineType[] = [
 	},
 	{
 		name: "Primitive Fusion Engine",
-		tag: "primitive-fusion",
+		tag: "primitive",
 		criticals: {
 			is: { ct: 6 }
 		},
