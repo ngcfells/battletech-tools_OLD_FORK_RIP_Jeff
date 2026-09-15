@@ -15,7 +15,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 1,
 			standard: 0.5,
 			light: 0.5,
-			xl: 0.5
+			xl: 0.5,
+			xxl: 0.5
 		}
 	},
 	{
@@ -28,7 +29,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 1,
 			standard: 0.5,
 			light: 0.5,
-			xl: 0.5
+			xl: 0.5,
+			xxl: 0.5
 		}
 	},
 	{
@@ -41,7 +43,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 1,
 			standard: 0.5,
 			light: 0.5,
-			xl: 0.5
+			xl: 0.5,
+			xxl: 0.5
 		}
 	},
 	{
@@ -54,7 +57,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 1,
 			standard: 0.5,
 			light: 0.5,
-			xl: 0.5
+			xl: 0.5,
+			xxl: 0.5
 		}
 	},
 	{
@@ -67,7 +71,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 1.5,
 			standard: 1,
 			light: 1,
-			xl: 0.5
+			xl: 0.5,
+			xxl: 0.5
 		}
 	},
 	{
@@ -80,7 +85,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 1.5,
 			standard: 1,
 			light: 1,
-			xl: 0.5
+			xl: 0.5,
+			xxl: 0.5
 		}
 	},
 	{
@@ -93,7 +99,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 1.5,
 			standard: 1,
 			light: 1,
-			xl: 0.5
+			xl: 0.5,
+			xxl: 0.5
 		}
 	},
 	{
@@ -106,7 +113,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 1.5,
 			standard: 1,
 			light: 1,
-			xl: 0.5
+			xl: 0.5,
+			xxl: 0.5
 		}
 	},
 	{
@@ -119,7 +127,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 2.5,
 			standard: 1.5,
 			light: 1.5,
-			xl: 1
+			xl: 1,
+			xxl: 0.5
 		}
 	},
 	{
@@ -132,7 +141,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 2.5,
 			standard: 1.5,
 			light: 1.5,
-			xl: 1
+			xl: 1,
+			xxl: 0.5
 		}
 	},
 	{
@@ -145,7 +155,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 2.5,
 			standard: 1.5,
 			light: 1.5,
-			xl: 1
+			xl: 1,
+			xxl: 0.5
 		}
 	},
 	{
@@ -158,7 +169,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 3,
 			standard: 2,
 			light: 1.5,
-			xl: 1
+			xl: 1,
+			xxl: 1
 		}
 	},
 	{
@@ -171,7 +183,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 3,
 			standard: 2,
 			light: 1.5,
-			xl: 1
+			xl: 1,
+			xxl: 1
 		}
 	},
 	{
@@ -184,7 +197,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 3,
 			standard: 2,
 			light: 1.5,
-			xl: 1
+			xl: 1,
+			xxl: 1
 		}
 	},
 	{
@@ -197,7 +211,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 4,
 			standard: 2.5,
 			light: 2,
-			xl: 1.5
+			xl: 1.5,
+			xxl: 1
 		}
 	},
 	{
@@ -210,7 +225,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 4,
 			standard: 2.5,
 			light: 2,
-			xl: 1.5
+			xl: 1.5,
+			xxl: 1
 		}
 	},
 	{
@@ -223,7 +239,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 4.5,
 			standard: 3,
 			light: 2.5,
-			xl: 1.5
+			xl: 1.5,
+			xxl: 1
 		}
 	},
 	{
@@ -236,7 +253,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 4.5,
 			standard: 3,
 			light: 2.5,
-			xl: 1.5
+			xl: 1.5,
+			xxl: 1
 		}
 	},
 	{
@@ -249,7 +267,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 4.5,
 			standard: 3.5,
 			light: 2.5,
-			xl: 1.5
+			xl: 1.5,
+			xxl: 1.5
 		}
 	},
 	{
@@ -262,7 +281,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 5.5,
 			standard: 3.5,
 			light: 3,
-			xl: 2
+			xl: 2,
+			xxl: 1.5
 		}
 	},
 	{
@@ -275,7 +295,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 5.5,
 			standard: 3.5,
 			light: 3,
-			xl: 2
+			xl: 2,
+			xxl: 1.5
 		}
 	},
 	{
@@ -288,7 +309,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 5.5,
 			standard: 3.5,
 			light: 3,
-			xl: 2
+			xl: 2,
+			xxl: 1.5
 		}
 	},
 	{
@@ -301,7 +323,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 6,
 			standard: 4,
 			light: 3,
-			xl: 2
+			xl: 2,
+			xxl: 1.5
 		}
 	},
 	{
@@ -314,7 +337,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 6,
 			standard: 4,
 			light: 3,
-			xl: 2
+			xl: 2,
+			xxl: 1.5
 		}
 	},
 	{
@@ -327,7 +351,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 7,
 			standard: 4.5,
 			light: 3.5,
-			xl: 2.5
+			xl: 2.5,
+			xxl: 1.5
 		}
 	},
 	{
@@ -340,7 +365,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 7,
 			standard: 4.5,
 			light: 3.5,
-			xl: 2.5
+			xl: 2.5,
+			xxl: 1.5
 		}
 	},
 	{
@@ -353,7 +379,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 7.5,
 			standard: 5,
 			light: 4,
-			xl: 2.5
+			xl: 2.5,
+			xxl: 2
 		}
 	},
 	{
@@ -366,7 +393,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 7.5,
 			standard: 5,
 			light: 4,
-			xl: 2.5
+			xl: 2.5,
+			xxl: 2
 		}
 	},
 	{
@@ -379,7 +407,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 8.5,
 			standard: 5.5,
 			light: 4.5,
-			xl: 3
+			xl: 3,
+			xxl: 2
 		}
 	},
 	{
@@ -392,7 +421,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 8.5,
 			standard: 5.5,
 			light: 4.5,
-			xl: 3
+			xl: 3,
+			xxl: 2
 		}
 	},
 	{
@@ -405,7 +435,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 9,
 			standard: 6,
 			light: 4.5,
-			xl: 3
+			xl: 3,
+			xxl: 2
 		}
 	},
 	{
@@ -418,7 +449,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 9,
 			standard: 6,
 			light: 4.5,
-			xl: 4
+			xl: 3,
+			xxl: 2
 		}
 	},
 	{
@@ -431,7 +463,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 9,
 			standard: 6,
 			light: 4.5,
-			xl: 4
+			xl: 3,
+			xxl: 2
 		}
 	},
 	{
@@ -444,7 +477,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 10,
 			standard: 7,
 			light: 5.5,
-			xl: 3.5
+			xl: 3.5,
+			xxl: 2.5
 		}
 	},
 	{
@@ -457,7 +491,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 10.5,
 			standard: 7,
 			light: 5.5,
-			xl: 3.5
+			xl: 3.5,
+			xxl: 2.5
 		}
 	},
 	{
@@ -468,9 +503,10 @@ export const mechEngineOptions: IEngineOption[] = [
 			cell: 9.0,
 			fission: 13.5,
 			comp: 11.5,
-			standard: 7.6,
+			standard: 7.5,
 			light: 6,
-			xl: 4
+			xl: 4,
+			xxl: 2.5
 		}
 	},
 	{
@@ -483,7 +519,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 11.5,
 			standard: 7.5,
 			light: 6,
-			xl: 4
+			xl: 4,
+			xxl: 2.5
 		}
 	},
 	{
@@ -496,7 +533,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 12,
 			standard: 8,
 			light: 6,
-			xl: 4
+			xl: 4,
+			xxl: 3
 		}
 	},
 	{
@@ -509,7 +547,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 13,
 			standard: 8.5,
 			light: 6.5,
-			xl: 4.5
+			xl: 4.5,
+			xxl: 3
 		}
 	},
 	{
@@ -522,7 +561,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 13,
 			standard: 8.5,
 			light: 6.5,
-			xl: 4.5
+			xl: 4.5,
+			xxl: 3
 		}
 	},
 	{
@@ -535,7 +575,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 13.5,
 			standard: 9,
 			light: 7,
-			xl: 4.5
+			xl: 4.5,
+			xxl: 3
 		}
 	},
 	{
@@ -546,9 +587,10 @@ export const mechEngineOptions: IEngineOption[] = [
 			cell: 11,
 			fission: 16,
 			comp: 13.5,
-			standard: 10,
+			standard: 9.5,
 			light: 7.5,
-			xl: 5
+			xl: 5,
+			xxl: 3.5
 		}
 	},
 	{
@@ -561,7 +603,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 15,
 			standard: 10,
 			light: 7.5,
-			xl: 5
+			xl: 5,
+			xxl: 3.5
 		}
 	},
 	{
@@ -574,7 +617,8 @@ export const mechEngineOptions: IEngineOption[] = [
 			comp: 15,
 			standard: 10,
 			light: 7.5,
-			xl: 5
+			xl: 5,
+			xxl: 3.5
 		}
 	},
 	{
